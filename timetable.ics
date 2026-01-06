@@ -1,2212 +1,2309 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//BBA Sem IV Timetable//
+PRODID:-//REGISTRO Live Sync//
+CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-1
+UID:registro-holiday-20260114
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Makar Sankranti
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-holiday-20260116
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:Founder's Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-holiday-20260126
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Republic Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-holiday-20260131
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Kala Day 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-holiday-20260201
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Kala Day 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-holiday-20260307
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:Adhikshana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-holiday-20260320
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Ramzan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-holiday-20260403
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Good Friday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-holiday-20260304
+DTSTAMP:20260106T103337Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:Holi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:registro-Strategic Management-E-session-1
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260106T140000
 DTEND;TZID=Asia/Kolkata:20260106T151500
-UID:Sem IV : STM - ARS(E)-1_2026-01-06T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 1
+SUMMARY:Sem IV : STM - ARS(E)-1
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 1
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-2
+UID:registro-Strategic Management-E-session-2
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260107T100000
 DTEND;TZID=Asia/Kolkata:20260107T111500
-UID:Sem IV : STM - ARS(E)-2_2026-01-07T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 2
+SUMMARY:Sem IV : STM - ARS(E)-2
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 2
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-3
+UID:registro-Strategic Management-E-session-3
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260108T100000
 DTEND;TZID=Asia/Kolkata:20260108T111500
-UID:Sem IV : STM - ARS(E)-3_2026-01-08T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 3
+SUMMARY:Sem IV : STM - ARS(E)-3
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 3
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-4
+UID:registro-Strategic Management-E-session-4
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260113T140000
 DTEND;TZID=Asia/Kolkata:20260113T151500
-UID:Sem IV : STM - ARS(E)-4_2026-01-13T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 4
+SUMMARY:Sem IV : STM - ARS(E)-4
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 4
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-5
+UID:registro-Strategic Management-E-session-5
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260115T100000
 DTEND;TZID=Asia/Kolkata:20260115T111500
-UID:Sem IV : STM - ARS(E)-5_2026-01-15T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 5
+SUMMARY:Sem IV : STM - ARS(E)-5
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 5
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-6
+UID:registro-Strategic Management-E-session-6
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260120T140000
 DTEND;TZID=Asia/Kolkata:20260120T151500
-UID:Sem IV : STM - ARS(E)-6_2026-01-20T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 6
+SUMMARY:Sem IV : STM - ARS(E)-6
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 6
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-7
+UID:registro-Strategic Management-E-session-7
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260121T100000
 DTEND;TZID=Asia/Kolkata:20260121T111500
-UID:Sem IV : STM - ARS(E)-7_2026-01-21T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 7
+SUMMARY:Sem IV : STM - ARS(E)-7
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 7
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-8
+UID:registro-Strategic Management-E-session-8
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260122T100000
 DTEND;TZID=Asia/Kolkata:20260122T111500
-UID:Sem IV : STM - ARS(E)-8_2026-01-22T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 8
+SUMMARY:Sem IV : STM - ARS(E)-8
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 8
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-9
+UID:registro-Strategic Management-E-session-9
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260127T140000
 DTEND;TZID=Asia/Kolkata:20260127T151500
-UID:Sem IV : STM - ARS(E)-9_2026-01-27T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 9
+SUMMARY:Sem IV : STM - ARS(E)-9
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 9
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-10
+UID:registro-Strategic Management-E-session-10
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260128T100000
 DTEND;TZID=Asia/Kolkata:20260128T111500
-UID:Sem IV : STM - ARS(E)-10_2026-01-28T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 10
+SUMMARY:Sem IV : STM - ARS(E)-10
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 10
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-11
+UID:registro-Strategic Management-E-session-11
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260129T100000
 DTEND;TZID=Asia/Kolkata:20260129T111500
-UID:Sem IV : STM - ARS(E)-11_2026-01-29T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 11
+SUMMARY:Sem IV : STM - ARS(E)-11
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 11
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-12
+UID:registro-Strategic Management-E-session-12
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260203T140000
 DTEND;TZID=Asia/Kolkata:20260203T151500
-UID:Sem IV : STM - ARS(E)-12_2026-02-03T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 12
+SUMMARY:Sem IV : STM - ARS(E)-12
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 12
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-13
+UID:registro-Strategic Management-E-session-13
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260204T100000
 DTEND;TZID=Asia/Kolkata:20260204T111500
-UID:Sem IV : STM - ARS(E)-13_2026-02-04T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 13
+SUMMARY:Sem IV : STM - ARS(E)-13
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 13
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-14
+UID:registro-Strategic Management-E-session-14
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260205T100000
 DTEND;TZID=Asia/Kolkata:20260205T111500
-UID:Sem IV : STM - ARS(E)-14_2026-02-05T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 14
+SUMMARY:Sem IV : STM - ARS(E)-14
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 14
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-15
+UID:registro-Strategic Management-E-session-15
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260210T140000
 DTEND;TZID=Asia/Kolkata:20260210T151500
-UID:Sem IV : STM - ARS(E)-15_2026-02-10T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 15
+SUMMARY:Sem IV : STM - ARS(E)-15
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 15
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-16
+UID:registro-Strategic Management-E-session-16
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260211T100000
 DTEND;TZID=Asia/Kolkata:20260211T111500
-UID:Sem IV : STM - ARS(E)-16_2026-02-11T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 16
+SUMMARY:Sem IV : STM - ARS(E)-16
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 16
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-17
+UID:registro-Strategic Management-E-session-17
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260212T100000
 DTEND;TZID=Asia/Kolkata:20260212T111500
-UID:Sem IV : STM - ARS(E)-17_2026-02-12T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 17
+SUMMARY:Sem IV : STM - ARS(E)-17
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 17
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-18
+UID:registro-Strategic Management-E-session-18
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260217T140000
 DTEND;TZID=Asia/Kolkata:20260217T151500
-UID:Sem IV : STM - ARS(E)-18_2026-02-17T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 18
+SUMMARY:Sem IV : STM - ARS(E)-18
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 18
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-19
+UID:registro-Strategic Management-E-session-19
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260218T100000
 DTEND;TZID=Asia/Kolkata:20260218T111500
-UID:Sem IV : STM - ARS(E)-19_2026-02-18T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 19
+SUMMARY:Sem IV : STM - ARS(E)-19
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 19
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-20
+UID:registro-Strategic Management-E-session-20
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260219T100000
 DTEND;TZID=Asia/Kolkata:20260219T111500
-UID:Sem IV : STM - ARS(E)-20_2026-02-19T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 20
+SUMMARY:Sem IV : STM - ARS(E)-20
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 20
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-21
+UID:registro-Strategic Management-E-session-21
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260303T140000
 DTEND;TZID=Asia/Kolkata:20260303T151500
-UID:Sem IV : STM - ARS(E)-21_2026-03-03T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 21
+SUMMARY:Sem IV : STM - ARS(E)-21
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 21
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-22
+UID:registro-Strategic Management-E-session-22
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260305T100000
 DTEND;TZID=Asia/Kolkata:20260305T111500
-UID:Sem IV : STM - ARS(E)-22_2026-03-05T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 22
+SUMMARY:Sem IV : STM - ARS(E)-22
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 22
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-23
+UID:registro-Strategic Management-E-session-23
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260310T140000
 DTEND;TZID=Asia/Kolkata:20260310T151500
-UID:Sem IV : STM - ARS(E)-23_2026-03-10T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 23
+SUMMARY:Sem IV : STM - ARS(E)-23
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 23
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-24
+UID:registro-Strategic Management-E-session-24
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260311T100000
 DTEND;TZID=Asia/Kolkata:20260311T111500
-UID:Sem IV : STM - ARS(E)-24_2026-03-11T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 24
+SUMMARY:Sem IV : STM - ARS(E)-24
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 24
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-25
+UID:registro-Strategic Management-E-session-25
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260312T100000
 DTEND;TZID=Asia/Kolkata:20260312T111500
-UID:Sem IV : STM - ARS(E)-25_2026-03-12T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 25
+SUMMARY:Sem IV : STM - ARS(E)-25
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 25
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-26
+UID:registro-Strategic Management-E-session-26
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260317T140000
 DTEND;TZID=Asia/Kolkata:20260317T151500
-UID:Sem IV : STM - ARS(E)-26_2026-03-17T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 26
+SUMMARY:Sem IV : STM - ARS(E)-26
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 26
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-27
+UID:registro-Strategic Management-E-session-27
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260318T100000
 DTEND;TZID=Asia/Kolkata:20260318T111500
-UID:Sem IV : STM - ARS(E)-27_2026-03-18T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 27
+SUMMARY:Sem IV : STM - ARS(E)-27
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 27
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-28
+UID:registro-Strategic Management-E-session-28
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260319T100000
 DTEND;TZID=Asia/Kolkata:20260319T111500
-UID:Sem IV : STM - ARS(E)-28_2026-03-19T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 28
+SUMMARY:Sem IV : STM - ARS(E)-28
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 28
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-29
+UID:registro-Strategic Management-E-session-29
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260324T140000
 DTEND;TZID=Asia/Kolkata:20260324T151500
-UID:Sem IV : STM - ARS(E)-29_2026-03-24T14:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 29
+SUMMARY:Sem IV : STM - ARS(E)-29
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 29
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : STM - ARS(E)-30
+UID:registro-Strategic Management-E-session-30
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260325T100000
 DTEND;TZID=Asia/Kolkata:20260325T111500
-UID:Sem IV : STM - ARS(E)-30_2026-03-25T10:00:00+05:30
-DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSect
- ion: E\nSession: 30
+SUMMARY:Sem IV : STM - ARS(E)-30
+DESCRIPTION:Course: Strategic Management\nFaculty: Prof. Arun Sriram\nSection: E\nSession: 30
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-1
+UID:registro-Operations Management-E-session-1
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260105T113000
 DTEND;TZID=Asia/Kolkata:20260105T124500
-UID:Sem IV : OPM - OPS_VF(E)-1_2026-01-05T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 1
+SUMMARY:Sem IV : OPM - OPS_VF(E)-1
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 1
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-2
+UID:registro-Operations Management-E-session-2
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260106T153000
 DTEND;TZID=Asia/Kolkata:20260106T164500
-UID:Sem IV : OPM - OPS_VF(E)-2_2026-01-06T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 2
+SUMMARY:Sem IV : OPM - OPS_VF(E)-2
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 2
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-3
+UID:registro-Operations Management-E-session-3
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260112T113000
 DTEND;TZID=Asia/Kolkata:20260112T124500
-UID:Sem IV : OPM - OPS_VF(E)-3_2026-01-12T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 3
+SUMMARY:Sem IV : OPM - OPS_VF(E)-3
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 3
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-4
+UID:registro-Operations Management-E-session-4
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260113T153000
 DTEND;TZID=Asia/Kolkata:20260113T164500
-UID:Sem IV : OPM - OPS_VF(E)-4_2026-01-13T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 4
+SUMMARY:Sem IV : OPM - OPS_VF(E)-4
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 4
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-5
+UID:registro-Operations Management-E-session-5
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260119T113000
 DTEND;TZID=Asia/Kolkata:20260119T124500
-UID:Sem IV : OPM - OPS_VF(E)-5_2026-01-19T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 5
+SUMMARY:Sem IV : OPM - OPS_VF(E)-5
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 5
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-6
+UID:registro-Operations Management-E-session-6
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260120T153000
 DTEND;TZID=Asia/Kolkata:20260120T164500
-UID:Sem IV : OPM - OPS_VF(E)-6_2026-01-20T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 6
+SUMMARY:Sem IV : OPM - OPS_VF(E)-6
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 6
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-7
+UID:registro-Operations Management-E-session-7
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260127T153000
 DTEND;TZID=Asia/Kolkata:20260127T164500
-UID:Sem IV : OPM - OPS_VF(E)-7_2026-01-27T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 7
+SUMMARY:Sem IV : OPM - OPS_VF(E)-7
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 7
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-8
+UID:registro-Operations Management-E-session-8
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260202T113000
 DTEND;TZID=Asia/Kolkata:20260202T124500
-UID:Sem IV : OPM - OPS_VF(E)-8_2026-02-02T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 8
+SUMMARY:Sem IV : OPM - OPS_VF(E)-8
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 8
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-9
+UID:registro-Operations Management-E-session-9
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260203T153000
 DTEND;TZID=Asia/Kolkata:20260203T164500
-UID:Sem IV : OPM - OPS_VF(E)-9_2026-02-03T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 9
+SUMMARY:Sem IV : OPM - OPS_VF(E)-9
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 9
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-11
+UID:registro-Operations Management-E-session-11
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260209T113000
 DTEND;TZID=Asia/Kolkata:20260209T124500
-UID:Sem IV : OPM - OPS_VF(E)-11_2026-02-09T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 11
+SUMMARY:Sem IV : OPM - OPS_VF(E)-11
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 11
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-12
+UID:registro-Operations Management-E-session-12
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260210T153000
 DTEND;TZID=Asia/Kolkata:20260210T164500
-UID:Sem IV : OPM - OPS_VF(E)-12_2026-02-10T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 12
+SUMMARY:Sem IV : OPM - OPS_VF(E)-12
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 12
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-13
+UID:registro-Operations Management-E-session-13
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260216T113000
 DTEND;TZID=Asia/Kolkata:20260216T124500
-UID:Sem IV : OPM - OPS_VF(E)-13_2026-02-16T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 13
+SUMMARY:Sem IV : OPM - OPS_VF(E)-13
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 13
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-14
+UID:registro-Operations Management-E-session-14
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260217T153000
 DTEND;TZID=Asia/Kolkata:20260217T164500
-UID:Sem IV : OPM - OPS_VF(E)-14_2026-02-17T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 14
+SUMMARY:Sem IV : OPM - OPS_VF(E)-14
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 14
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-15
+UID:registro-Operations Management-E-session-15
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260302T113000
 DTEND;TZID=Asia/Kolkata:20260302T124500
-UID:Sem IV : OPM - OPS_VF(E)-15_2026-03-02T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 15
+SUMMARY:Sem IV : OPM - OPS_VF(E)-15
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 15
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-16
+UID:registro-Operations Management-E-session-16
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260303T153000
 DTEND;TZID=Asia/Kolkata:20260303T164500
-UID:Sem IV : OPM - OPS_VF(E)-16_2026-03-03T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 16
+SUMMARY:Sem IV : OPM - OPS_VF(E)-16
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 16
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-17
+UID:registro-Operations Management-E-session-17
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260309T113000
 DTEND;TZID=Asia/Kolkata:20260309T124500
-UID:Sem IV : OPM - OPS_VF(E)-17_2026-03-09T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 17
+SUMMARY:Sem IV : OPM - OPS_VF(E)-17
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 17
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-18
+UID:registro-Operations Management-E-session-18
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260310T153000
 DTEND;TZID=Asia/Kolkata:20260310T164500
-UID:Sem IV : OPM - OPS_VF(E)-18_2026-03-10T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 18
+SUMMARY:Sem IV : OPM - OPS_VF(E)-18
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 18
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-19
+UID:registro-Operations Management-E-session-19
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260316T113000
 DTEND;TZID=Asia/Kolkata:20260316T124500
-UID:Sem IV : OPM - OPS_VF(E)-19_2026-03-16T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 19
+SUMMARY:Sem IV : OPM - OPS_VF(E)-19
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 19
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-20
+UID:registro-Operations Management-E-session-20
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260317T153000
 DTEND;TZID=Asia/Kolkata:20260317T164500
-UID:Sem IV : OPM - OPS_VF(E)-20_2026-03-17T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 20
+SUMMARY:Sem IV : OPM - OPS_VF(E)-20
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 20
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-22
+UID:registro-Operations Management-E-session-22
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260323T113000
 DTEND;TZID=Asia/Kolkata:20260323T124500
-UID:Sem IV : OPM - OPS_VF(E)-22_2026-03-23T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 22
+SUMMARY:Sem IV : OPM - OPS_VF(E)-22
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 22
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-23
+UID:registro-Operations Management-E-session-23
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260324T153000
 DTEND;TZID=Asia/Kolkata:20260324T164500
-UID:Sem IV : OPM - OPS_VF(E)-23_2026-03-24T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 23
+SUMMARY:Sem IV : OPM - OPS_VF(E)-23
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 23
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-25
+UID:registro-Operations Management-E-session-25
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260330T113000
 DTEND;TZID=Asia/Kolkata:20260330T124500
-UID:Sem IV : OPM - OPS_VF(E)-25_2026-03-30T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 25
+SUMMARY:Sem IV : OPM - OPS_VF(E)-25
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 25
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-26
+UID:registro-Operations Management-E-session-26
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260331T153000
 DTEND;TZID=Asia/Kolkata:20260331T164500
-UID:Sem IV : OPM - OPS_VF(E)-26_2026-03-31T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 26
+SUMMARY:Sem IV : OPM - OPS_VF(E)-26
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 26
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-28
+UID:registro-Operations Management-E-session-28
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260406T113000
 DTEND;TZID=Asia/Kolkata:20260406T124500
-UID:Sem IV : OPM - OPS_VF(E)-28_2026-04-06T11:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 28
+SUMMARY:Sem IV : OPM - OPS_VF(E)-28
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 28
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-29
+UID:registro-Operations Management-E-session-29
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260407T153000
 DTEND;TZID=Asia/Kolkata:20260407T164500
-UID:Sem IV : OPM - OPS_VF(E)-29_2026-04-07T15:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 29
+SUMMARY:Sem IV : OPM - OPS_VF(E)-29
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 29
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-1
+UID:registro-Human Resource Management-E-session-1
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260105T140000
 DTEND;TZID=Asia/Kolkata:20260105T151500
-UID:Sem IV : HRM - SSK(E)-1_2026-01-05T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 1
+SUMMARY:Sem IV : HRM - SSK(E)-1
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 1
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-2
+UID:registro-Human Resource Management-E-session-2
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260107T113000
 DTEND;TZID=Asia/Kolkata:20260107T124500
-UID:Sem IV : HRM - SSK(E)-2_2026-01-07T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 2
+SUMMARY:Sem IV : HRM - SSK(E)-2
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 2
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-3
+UID:registro-Human Resource Management-E-session-3
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260109T153000
 DTEND;TZID=Asia/Kolkata:20260109T164500
-UID:Sem IV : HRM - SSK(E)-3_2026-01-09T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 3
+SUMMARY:Sem IV : HRM - SSK(E)-3
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 3
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-4
+UID:registro-Human Resource Management-E-session-4
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260112T140000
 DTEND;TZID=Asia/Kolkata:20260112T151500
-UID:Sem IV : HRM - SSK(E)-4_2026-01-12T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 4
+SUMMARY:Sem IV : HRM - SSK(E)-4
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 4
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-5
+UID:registro-Human Resource Management-E-session-5
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260119T140000
 DTEND;TZID=Asia/Kolkata:20260119T151500
-UID:Sem IV : HRM - SSK(E)-5_2026-01-19T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 5
+SUMMARY:Sem IV : HRM - SSK(E)-5
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 5
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-6
+UID:registro-Human Resource Management-E-session-6
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260121T113000
 DTEND;TZID=Asia/Kolkata:20260121T124500
-UID:Sem IV : HRM - SSK(E)-6_2026-01-21T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 6
+SUMMARY:Sem IV : HRM - SSK(E)-6
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 6
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-7
+UID:registro-Human Resource Management-E-session-7
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260123T153000
 DTEND;TZID=Asia/Kolkata:20260123T164500
-UID:Sem IV : HRM - SSK(E)-7_2026-01-23T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 7
+SUMMARY:Sem IV : HRM - SSK(E)-7
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 7
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-8
+UID:registro-Human Resource Management-E-session-8
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260128T113000
 DTEND;TZID=Asia/Kolkata:20260128T124500
-UID:Sem IV : HRM - SSK(E)-8_2026-01-28T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 8
+SUMMARY:Sem IV : HRM - SSK(E)-8
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 8
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-9
+UID:registro-Human Resource Management-E-session-9
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260130T153000
 DTEND;TZID=Asia/Kolkata:20260130T164500
-UID:Sem IV : HRM - SSK(E)-9_2026-01-30T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 9
+SUMMARY:Sem IV : HRM - SSK(E)-9
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 9
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-10
+UID:registro-Human Resource Management-E-session-10
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260202T140000
 DTEND;TZID=Asia/Kolkata:20260202T151500
-UID:Sem IV : HRM - SSK(E)-10_2026-02-02T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 10
+SUMMARY:Sem IV : HRM - SSK(E)-10
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 10
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-11
+UID:registro-Human Resource Management-E-session-11
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260204T113000
 DTEND;TZID=Asia/Kolkata:20260204T124500
-UID:Sem IV : HRM - SSK(E)-11_2026-02-04T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 11
+SUMMARY:Sem IV : HRM - SSK(E)-11
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 11
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-12
+UID:registro-Human Resource Management-E-session-12
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260206T153000
 DTEND;TZID=Asia/Kolkata:20260206T164500
-UID:Sem IV : HRM - SSK(E)-12_2026-02-06T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 12
+SUMMARY:Sem IV : HRM - SSK(E)-12
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 12
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-13
+UID:registro-Human Resource Management-E-session-13
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260209T140000
 DTEND;TZID=Asia/Kolkata:20260209T151500
-UID:Sem IV : HRM - SSK(E)-13_2026-02-09T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 13
+SUMMARY:Sem IV : HRM - SSK(E)-13
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 13
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-14
+UID:registro-Human Resource Management-E-session-14
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260211T113000
 DTEND;TZID=Asia/Kolkata:20260211T124500
-UID:Sem IV : HRM - SSK(E)-14_2026-02-11T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 14
+SUMMARY:Sem IV : HRM - SSK(E)-14
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 14
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-15
+UID:registro-Human Resource Management-E-session-15
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260213T153000
 DTEND;TZID=Asia/Kolkata:20260213T164500
-UID:Sem IV : HRM - SSK(E)-15_2026-02-13T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 15
+SUMMARY:Sem IV : HRM - SSK(E)-15
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 15
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-16
+UID:registro-Human Resource Management-E-session-16
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260216T140000
 DTEND;TZID=Asia/Kolkata:20260216T151500
-UID:Sem IV : HRM - SSK(E)-16_2026-02-16T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 16
+SUMMARY:Sem IV : HRM - SSK(E)-16
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 16
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-17
+UID:registro-Human Resource Management-E-session-17
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260218T113000
 DTEND;TZID=Asia/Kolkata:20260218T124500
-UID:Sem IV : HRM - SSK(E)-17_2026-02-18T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 17
+SUMMARY:Sem IV : HRM - SSK(E)-17
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 17
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-18
+UID:registro-Human Resource Management-E-session-18
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260220T153000
 DTEND;TZID=Asia/Kolkata:20260220T164500
-UID:Sem IV : HRM - SSK(E)-18_2026-02-20T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 18
+SUMMARY:Sem IV : HRM - SSK(E)-18
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 18
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-19
+UID:registro-Human Resource Management-E-session-19
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260302T140000
 DTEND;TZID=Asia/Kolkata:20260302T151500
-UID:Sem IV : HRM - SSK(E)-19_2026-03-02T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 19
+SUMMARY:Sem IV : HRM - SSK(E)-19
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 19
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-20
+UID:registro-Human Resource Management-E-session-20
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260306T153000
 DTEND;TZID=Asia/Kolkata:20260306T164500
-UID:Sem IV : HRM - SSK(E)-20_2026-03-06T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 20
+SUMMARY:Sem IV : HRM - SSK(E)-20
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 20
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-21
+UID:registro-Human Resource Management-E-session-21
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260309T140000
 DTEND;TZID=Asia/Kolkata:20260309T151500
-UID:Sem IV : HRM - SSK(E)-21_2026-03-09T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 21
+SUMMARY:Sem IV : HRM - SSK(E)-21
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 21
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-22
+UID:registro-Human Resource Management-E-session-22
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260311T113000
 DTEND;TZID=Asia/Kolkata:20260311T124500
-UID:Sem IV : HRM - SSK(E)-22_2026-03-11T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 22
+SUMMARY:Sem IV : HRM - SSK(E)-22
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 22
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-23
+UID:registro-Human Resource Management-E-session-23
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260313T153000
 DTEND;TZID=Asia/Kolkata:20260313T164500
-UID:Sem IV : HRM - SSK(E)-23_2026-03-13T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 23
+SUMMARY:Sem IV : HRM - SSK(E)-23
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 23
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-24
+UID:registro-Human Resource Management-E-session-24
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260316T140000
 DTEND;TZID=Asia/Kolkata:20260316T151500
-UID:Sem IV : HRM - SSK(E)-24_2026-03-16T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 24
+SUMMARY:Sem IV : HRM - SSK(E)-24
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 24
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-25
+UID:registro-Human Resource Management-E-session-25
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260318T113000
 DTEND;TZID=Asia/Kolkata:20260318T124500
-UID:Sem IV : HRM - SSK(E)-25_2026-03-18T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 25
+SUMMARY:Sem IV : HRM - SSK(E)-25
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 25
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-26
+UID:registro-Human Resource Management-E-session-26
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260323T140000
 DTEND;TZID=Asia/Kolkata:20260323T151500
-UID:Sem IV : HRM - SSK(E)-26_2026-03-23T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 26
+SUMMARY:Sem IV : HRM - SSK(E)-26
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 26
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-27
+UID:registro-Human Resource Management-E-session-27
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260325T113000
 DTEND;TZID=Asia/Kolkata:20260325T124500
-UID:Sem IV : HRM - SSK(E)-27_2026-03-25T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 27
+SUMMARY:Sem IV : HRM - SSK(E)-27
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 27
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-28
+UID:registro-Human Resource Management-E-session-28
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260327T153000
 DTEND;TZID=Asia/Kolkata:20260327T164500
-UID:Sem IV : HRM - SSK(E)-28_2026-03-27T15:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 28
+SUMMARY:Sem IV : HRM - SSK(E)-28
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 28
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-29
+UID:registro-Human Resource Management-E-session-29
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260330T140000
 DTEND;TZID=Asia/Kolkata:20260330T151500
-UID:Sem IV : HRM - SSK(E)-29_2026-03-30T14:00:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 29
+SUMMARY:Sem IV : HRM - SSK(E)-29
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 29
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : HRM - SSK(E)-30
+UID:registro-Human Resource Management-E-session-30
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260401T113000
 DTEND;TZID=Asia/Kolkata:20260401T124500
-UID:Sem IV : HRM - SSK(E)-30_2026-04-01T11:30:00+05:30
-DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Ka
- r\nSection: E\nSession: 30
+SUMMARY:Sem IV : HRM - SSK(E)-30
+DESCRIPTION:Course: Human Resource Management\nFaculty: Prof. Subhasree Kar\nSection: E\nSession: 30
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-1
+UID:registro-Industry and Economic Analysis-E-session-1
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260108T140000
 DTEND;TZID=Asia/Kolkata:20260108T151500
-UID:Sem IV : IEA - DES(E)-1_2026-01-08T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 1
+SUMMARY:Sem IV : IEA - DES(E)-1
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 1
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-2
+UID:registro-Industry and Economic Analysis-E-session-2
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260109T100000
 DTEND;TZID=Asia/Kolkata:20260109T111500
-UID:Sem IV : IEA - DES(E)-2_2026-01-09T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 2
+SUMMARY:Sem IV : IEA - DES(E)-2
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 2
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-3
+UID:registro-Industry and Economic Analysis-E-session-3
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260115T140000
 DTEND;TZID=Asia/Kolkata:20260115T151500
-UID:Sem IV : IEA - DES(E)-3_2026-01-15T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 3
+SUMMARY:Sem IV : IEA - DES(E)-3
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 3
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-4
+UID:registro-Industry and Economic Analysis-E-session-4
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260122T140000
 DTEND;TZID=Asia/Kolkata:20260122T151500
-UID:Sem IV : IEA - DES(E)-4_2026-01-22T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 4
+SUMMARY:Sem IV : IEA - DES(E)-4
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 4
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-5
+UID:registro-Industry and Economic Analysis-E-session-5
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260123T100000
 DTEND;TZID=Asia/Kolkata:20260123T111500
-UID:Sem IV : IEA - DES(E)-5_2026-01-23T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 5
+SUMMARY:Sem IV : IEA - DES(E)-5
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 5
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-6
+UID:registro-Industry and Economic Analysis-E-session-6
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260129T140000
 DTEND;TZID=Asia/Kolkata:20260129T151500
-UID:Sem IV : IEA - DES(E)-6_2026-01-29T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 6
+SUMMARY:Sem IV : IEA - DES(E)-6
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 6
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-7
+UID:registro-Industry and Economic Analysis-E-session-7
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260130T100000
 DTEND;TZID=Asia/Kolkata:20260130T111500
-UID:Sem IV : IEA - DES(E)-7_2026-01-30T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 7
+SUMMARY:Sem IV : IEA - DES(E)-7
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 7
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-8
+UID:registro-Industry and Economic Analysis-E-session-8
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260205T140000
 DTEND;TZID=Asia/Kolkata:20260205T151500
-UID:Sem IV : IEA - DES(E)-8_2026-02-05T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 8
+SUMMARY:Sem IV : IEA - DES(E)-8
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 8
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-9
+UID:registro-Industry and Economic Analysis-E-session-9
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260206T100000
 DTEND;TZID=Asia/Kolkata:20260206T111500
-UID:Sem IV : IEA - DES(E)-9_2026-02-06T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 9
+SUMMARY:Sem IV : IEA - DES(E)-9
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 9
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-10
+UID:registro-Industry and Economic Analysis-E-session-10
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260212T140000
 DTEND;TZID=Asia/Kolkata:20260212T151500
-UID:Sem IV : IEA - DES(E)-10_2026-02-12T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 10
+SUMMARY:Sem IV : IEA - DES(E)-10
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 10
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-11
+UID:registro-Industry and Economic Analysis-E-session-11
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260213T100000
 DTEND;TZID=Asia/Kolkata:20260213T111500
-UID:Sem IV : IEA - DES(E)-11_2026-02-13T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 11
+SUMMARY:Sem IV : IEA - DES(E)-11
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 11
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-12
+UID:registro-Industry and Economic Analysis-E-session-12
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260219T140000
 DTEND;TZID=Asia/Kolkata:20260219T151500
-UID:Sem IV : IEA - DES(E)-12_2026-02-19T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 12
+SUMMARY:Sem IV : IEA - DES(E)-12
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 12
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-13
+UID:registro-Industry and Economic Analysis-E-session-13
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260220T100000
 DTEND;TZID=Asia/Kolkata:20260220T111500
-UID:Sem IV : IEA - DES(E)-13_2026-02-20T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 13
+SUMMARY:Sem IV : IEA - DES(E)-13
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 13
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-14
+UID:registro-Industry and Economic Analysis-E-session-14
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260305T140000
 DTEND;TZID=Asia/Kolkata:20260305T151500
-UID:Sem IV : IEA - DES(E)-14_2026-03-05T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 14
+SUMMARY:Sem IV : IEA - DES(E)-14
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 14
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-15
+UID:registro-Industry and Economic Analysis-E-session-15
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260306T100000
 DTEND;TZID=Asia/Kolkata:20260306T111500
-UID:Sem IV : IEA - DES(E)-15_2026-03-06T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 15
+SUMMARY:Sem IV : IEA - DES(E)-15
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 15
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-16
+UID:registro-Industry and Economic Analysis-E-session-16
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260312T140000
 DTEND;TZID=Asia/Kolkata:20260312T151500
-UID:Sem IV : IEA - DES(E)-16_2026-03-12T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 16
+SUMMARY:Sem IV : IEA - DES(E)-16
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 16
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-17
+UID:registro-Industry and Economic Analysis-E-session-17
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260313T100000
 DTEND;TZID=Asia/Kolkata:20260313T111500
-UID:Sem IV : IEA - DES(E)-17_2026-03-13T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 17
+SUMMARY:Sem IV : IEA - DES(E)-17
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 17
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-18
+UID:registro-Industry and Economic Analysis-E-session-18
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260326T140000
 DTEND;TZID=Asia/Kolkata:20260326T151500
-UID:Sem IV : IEA - DES(E)-18_2026-03-26T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 18
+SUMMARY:Sem IV : IEA - DES(E)-18
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 18
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-19
+UID:registro-Industry and Economic Analysis-E-session-19
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260327T100000
 DTEND;TZID=Asia/Kolkata:20260327T111500
-UID:Sem IV : IEA - DES(E)-19_2026-03-27T10:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 19
+SUMMARY:Sem IV : IEA - DES(E)-19
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 19
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : IEA - DES(E)-20
+UID:registro-Industry and Economic Analysis-E-session-20
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260402T140000
 DTEND;TZID=Asia/Kolkata:20260402T151500
-UID:Sem IV : IEA - DES(E)-20_2026-04-02T14:00:00+05:30
-DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmi
- ta\nSection: E\nSession: 20
+SUMMARY:Sem IV : IEA - DES(E)-20
+DESCRIPTION:Course: Industry and Economic Analysis\nFaculty: Prof. Devasmita\nSection: E\nSession: 20
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-2
+UID:registro-Business Research Methods-E-session-2
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260109T113000
 DTEND;TZID=Asia/Kolkata:20260109T124500
-UID:Sem IV : BRM - PRS(E)-2_2026-01-09T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 2
+SUMMARY:Sem IV : BRM - PRS(E)-2
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 2
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-3
+UID:registro-Business Research Methods-E-session-3
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260112T153000
 DTEND;TZID=Asia/Kolkata:20260112T164500
-UID:Sem IV : BRM - PRS(E)-3_2026-01-12T15:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 3
+SUMMARY:Sem IV : BRM - PRS(E)-3
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 3
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-4
+UID:registro-Business Research Methods-E-session-4
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260113T113000
 DTEND;TZID=Asia/Kolkata:20260113T124500
-UID:Sem IV : BRM - PRS(E)-4_2026-01-13T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 4
+SUMMARY:Sem IV : BRM - PRS(E)-4
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 4
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-5
+UID:registro-Business Research Methods-E-session-5
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260119T153000
 DTEND;TZID=Asia/Kolkata:20260119T164500
-UID:Sem IV : BRM - PRS(E)-5_2026-01-19T15:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 5
+SUMMARY:Sem IV : BRM - PRS(E)-5
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 5
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-6
+UID:registro-Business Research Methods-E-session-6
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260120T113000
 DTEND;TZID=Asia/Kolkata:20260120T124500
-UID:Sem IV : BRM - PRS(E)-6_2026-01-20T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 6
+SUMMARY:Sem IV : BRM - PRS(E)-6
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 6
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-8
+UID:registro-Business Research Methods-E-session-8
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260123T113000
 DTEND;TZID=Asia/Kolkata:20260123T124500
-UID:Sem IV : BRM - PRS(E)-8_2026-01-23T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 8
+SUMMARY:Sem IV : BRM - PRS(E)-8
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 8
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-10
+UID:registro-Business Research Methods-E-session-10
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260127T113000
 DTEND;TZID=Asia/Kolkata:20260127T124500
-UID:Sem IV : BRM - PRS(E)-10_2026-01-27T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 10
+SUMMARY:Sem IV : BRM - PRS(E)-10
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 10
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-13
+UID:registro-Business Research Methods-E-session-13
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260130T113000
 DTEND;TZID=Asia/Kolkata:20260130T124500
-UID:Sem IV : BRM - PRS(E)-13_2026-01-30T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 13
+SUMMARY:Sem IV : BRM - PRS(E)-13
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 13
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-15
+UID:registro-Business Research Methods-E-session-15
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260202T153000
 DTEND;TZID=Asia/Kolkata:20260202T164500
-UID:Sem IV : BRM - PRS(E)-15_2026-02-02T15:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 15
+SUMMARY:Sem IV : BRM - PRS(E)-15
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 15
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-16
+UID:registro-Business Research Methods-E-session-16
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260203T113000
 DTEND;TZID=Asia/Kolkata:20260203T124500
-UID:Sem IV : BRM - PRS(E)-16_2026-02-03T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 16
+SUMMARY:Sem IV : BRM - PRS(E)-16
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 16
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-18
+UID:registro-Business Research Methods-E-session-18
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260206T113000
 DTEND;TZID=Asia/Kolkata:20260206T124500
-UID:Sem IV : BRM - PRS(E)-18_2026-02-06T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 18
+SUMMARY:Sem IV : BRM - PRS(E)-18
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 18
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-19
+UID:registro-Business Research Methods-E-session-19
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260209T153000
 DTEND;TZID=Asia/Kolkata:20260209T164500
-UID:Sem IV : BRM - PRS(E)-19_2026-02-09T15:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 19
+SUMMARY:Sem IV : BRM - PRS(E)-19
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 19
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-20
+UID:registro-Business Research Methods-E-session-20
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260210T113000
 DTEND;TZID=Asia/Kolkata:20260210T124500
-UID:Sem IV : BRM - PRS(E)-20_2026-02-10T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 20
+SUMMARY:Sem IV : BRM - PRS(E)-20
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 20
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-21
+UID:registro-Business Research Methods-E-session-21
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260213T113000
 DTEND;TZID=Asia/Kolkata:20260213T124500
-UID:Sem IV : BRM - PRS(E)-21_2026-02-13T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 21
+SUMMARY:Sem IV : BRM - PRS(E)-21
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 21
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-22
+UID:registro-Business Research Methods-E-session-22
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260216T153000
 DTEND;TZID=Asia/Kolkata:20260216T164500
-UID:Sem IV : BRM - PRS(E)-22_2026-02-16T15:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 22
+SUMMARY:Sem IV : BRM - PRS(E)-22
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 22
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-23
+UID:registro-Business Research Methods-E-session-23
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260217T113000
 DTEND;TZID=Asia/Kolkata:20260217T124500
-UID:Sem IV : BRM - PRS(E)-23_2026-02-17T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 23
+SUMMARY:Sem IV : BRM - PRS(E)-23
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 23
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-24
+UID:registro-Business Research Methods-E-session-24
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260220T113000
 DTEND;TZID=Asia/Kolkata:20260220T124500
-UID:Sem IV : BRM - PRS(E)-24_2026-02-20T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 24
+SUMMARY:Sem IV : BRM - PRS(E)-24
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 24
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-25
+UID:registro-Business Research Methods-E-session-25
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260323T153000
 DTEND;TZID=Asia/Kolkata:20260323T164500
-UID:Sem IV : BRM - PRS(E)-25_2026-03-23T15:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 25
+SUMMARY:Sem IV : BRM - PRS(E)-25
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 25
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-26
+UID:registro-Business Research Methods-E-session-26
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260324T113000
 DTEND;TZID=Asia/Kolkata:20260324T124500
-UID:Sem IV : BRM - PRS(E)-26_2026-03-24T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 26
+SUMMARY:Sem IV : BRM - PRS(E)-26
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 26
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-27
+UID:registro-Business Research Methods-E-session-27
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260327T113000
 DTEND;TZID=Asia/Kolkata:20260327T124500
-UID:Sem IV : BRM - PRS(E)-27_2026-03-27T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 27
+SUMMARY:Sem IV : BRM - PRS(E)-27
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 27
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-1
+UID:registro-Financial Management-E-session-1
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260106T100000
 DTEND;TZID=Asia/Kolkata:20260106T111500
-UID:Sem IV : FIM - NEB(E)-1_2026-01-06T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 1
+SUMMARY:Sem IV : FIM - NEB(E)-1
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 1
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-2
+UID:registro-Financial Management-E-session-2
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260108T113000
 DTEND;TZID=Asia/Kolkata:20260108T124500
-UID:Sem IV : FIM - NEB(E)-2_2026-01-08T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 2
+SUMMARY:Sem IV : FIM - NEB(E)-2
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 2
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-3
+UID:registro-Financial Management-E-session-3
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260109T140000
 DTEND;TZID=Asia/Kolkata:20260109T151500
-UID:Sem IV : FIM - NEB(E)-3_2026-01-09T14:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 3
+SUMMARY:Sem IV : FIM - NEB(E)-3
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 3
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-4
+UID:registro-Financial Management-E-session-4
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260113T100000
 DTEND;TZID=Asia/Kolkata:20260113T111500
-UID:Sem IV : FIM - NEB(E)-4_2026-01-13T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 4
+SUMMARY:Sem IV : FIM - NEB(E)-4
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 4
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-5
+UID:registro-Financial Management-E-session-5
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260115T113000
 DTEND;TZID=Asia/Kolkata:20260115T124500
-UID:Sem IV : FIM - NEB(E)-5_2026-01-15T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 5
+SUMMARY:Sem IV : FIM - NEB(E)-5
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 5
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-6
+UID:registro-Financial Management-E-session-6
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260120T100000
 DTEND;TZID=Asia/Kolkata:20260120T111500
-UID:Sem IV : FIM - NEB(E)-6_2026-01-20T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 6
+SUMMARY:Sem IV : FIM - NEB(E)-6
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 6
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-7
+UID:registro-Financial Management-E-session-7
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260122T113000
 DTEND;TZID=Asia/Kolkata:20260122T124500
-UID:Sem IV : FIM - NEB(E)-7_2026-01-22T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 7
+SUMMARY:Sem IV : FIM - NEB(E)-7
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 7
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-8
+UID:registro-Financial Management-E-session-8
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260127T100000
 DTEND;TZID=Asia/Kolkata:20260127T111500
-UID:Sem IV : FIM - NEB(E)-8_2026-01-27T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 8
+SUMMARY:Sem IV : FIM - NEB(E)-8
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 8
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-9
+UID:registro-Financial Management-E-session-9
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260129T113000
 DTEND;TZID=Asia/Kolkata:20260129T124500
-UID:Sem IV : FIM - NEB(E)-9_2026-01-29T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 9
+SUMMARY:Sem IV : FIM - NEB(E)-9
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 9
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-10
+UID:registro-Financial Management-E-session-10
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260203T100000
 DTEND;TZID=Asia/Kolkata:20260203T111500
-UID:Sem IV : FIM - NEB(E)-10_2026-02-03T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 10
+SUMMARY:Sem IV : FIM - NEB(E)-10
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 10
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-11
+UID:registro-Financial Management-E-session-11
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260205T113000
 DTEND;TZID=Asia/Kolkata:20260205T124500
-UID:Sem IV : FIM - NEB(E)-11_2026-02-05T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 11
+SUMMARY:Sem IV : FIM - NEB(E)-11
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 11
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-12
+UID:registro-Financial Management-E-session-12
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260206T140000
 DTEND;TZID=Asia/Kolkata:20260206T151500
-UID:Sem IV : FIM - NEB(E)-12_2026-02-06T14:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 12
+SUMMARY:Sem IV : FIM - NEB(E)-12
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 12
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-13
+UID:registro-Financial Management-E-session-13
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260210T100000
 DTEND;TZID=Asia/Kolkata:20260210T111500
-UID:Sem IV : FIM - NEB(E)-13_2026-02-10T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 13
+SUMMARY:Sem IV : FIM - NEB(E)-13
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 13
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-14
+UID:registro-Financial Management-E-session-14
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260212T113000
 DTEND;TZID=Asia/Kolkata:20260212T124500
-UID:Sem IV : FIM - NEB(E)-14_2026-02-12T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 14
+SUMMARY:Sem IV : FIM - NEB(E)-14
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 14
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-15
+UID:registro-Financial Management-E-session-15
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260213T140000
 DTEND;TZID=Asia/Kolkata:20260213T151500
-UID:Sem IV : FIM - NEB(E)-15_2026-02-13T14:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 15
+SUMMARY:Sem IV : FIM - NEB(E)-15
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 15
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-16
+UID:registro-Financial Management-E-session-16
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260217T100000
 DTEND;TZID=Asia/Kolkata:20260217T111500
-UID:Sem IV : FIM - NEB(E)-16_2026-02-17T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 16
+SUMMARY:Sem IV : FIM - NEB(E)-16
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 16
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-17
+UID:registro-Financial Management-E-session-17
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260219T113000
 DTEND;TZID=Asia/Kolkata:20260219T124500
-UID:Sem IV : FIM - NEB(E)-17_2026-02-19T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 17
+SUMMARY:Sem IV : FIM - NEB(E)-17
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 17
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-18
+UID:registro-Financial Management-E-session-18
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260303T100000
 DTEND;TZID=Asia/Kolkata:20260303T111500
-UID:Sem IV : FIM - NEB(E)-18_2026-03-03T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 18
+SUMMARY:Sem IV : FIM - NEB(E)-18
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 18
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-19
+UID:registro-Financial Management-E-session-19
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260305T113000
 DTEND;TZID=Asia/Kolkata:20260305T124500
-UID:Sem IV : FIM - NEB(E)-19_2026-03-05T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 19
+SUMMARY:Sem IV : FIM - NEB(E)-19
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 19
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-20
+UID:registro-Financial Management-E-session-20
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260306T140000
 DTEND;TZID=Asia/Kolkata:20260306T151500
-UID:Sem IV : FIM - NEB(E)-20_2026-03-06T14:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 20
+SUMMARY:Sem IV : FIM - NEB(E)-20
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 20
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-21
+UID:registro-Financial Management-E-session-21
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260310T100000
 DTEND;TZID=Asia/Kolkata:20260310T111500
-UID:Sem IV : FIM - NEB(E)-21_2026-03-10T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 21
+SUMMARY:Sem IV : FIM - NEB(E)-21
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 21
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-22
+UID:registro-Financial Management-E-session-22
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260312T113000
 DTEND;TZID=Asia/Kolkata:20260312T124500
-UID:Sem IV : FIM - NEB(E)-22_2026-03-12T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 22
+SUMMARY:Sem IV : FIM - NEB(E)-22
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 22
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-23
+UID:registro-Financial Management-E-session-23
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260313T140000
 DTEND;TZID=Asia/Kolkata:20260313T151500
-UID:Sem IV : FIM - NEB(E)-23_2026-03-13T14:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 23
+SUMMARY:Sem IV : FIM - NEB(E)-23
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 23
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-25
+UID:registro-Financial Management-E-session-25
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260317T100000
 DTEND;TZID=Asia/Kolkata:20260317T111500
-UID:Sem IV : FIM - NEB(E)-25_2026-03-17T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 25
+SUMMARY:Sem IV : FIM - NEB(E)-25
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 25
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-26
+UID:registro-Financial Management-E-session-26
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260319T113000
 DTEND;TZID=Asia/Kolkata:20260319T124500
-UID:Sem IV : FIM - NEB(E)-26_2026-03-19T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 26
+SUMMARY:Sem IV : FIM - NEB(E)-26
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 26
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-27
+UID:registro-Financial Management-E-session-27
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260324T100000
 DTEND;TZID=Asia/Kolkata:20260324T111500
-UID:Sem IV : FIM - NEB(E)-27_2026-03-24T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 27
+SUMMARY:Sem IV : FIM - NEB(E)-27
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 27
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-28
+UID:registro-Financial Management-E-session-28
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260326T113000
 DTEND;TZID=Asia/Kolkata:20260326T124500
-UID:Sem IV : FIM - NEB(E)-28_2026-03-26T11:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 28
+SUMMARY:Sem IV : FIM - NEB(E)-28
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 28
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-1
+UID:registro-Information Technology for Managers-E-session-1
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260107T140000
 DTEND;TZID=Asia/Kolkata:20260107T151500
-UID:Sem IV : ITM - VMS(E)-1_2026-01-07T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 1
+SUMMARY:Sem IV : ITM - VMS(E)-1
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 1
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-3
+UID:registro-Information Technology for Managers-E-session-3
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260108T153000
 DTEND;TZID=Asia/Kolkata:20260108T164500
-UID:Sem IV : ITM - VMS(E)-3_2026-01-08T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 3
+SUMMARY:Sem IV : ITM - VMS(E)-3
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 3
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-4
+UID:registro-Information Technology for Managers-E-session-4
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260115T153000
 DTEND;TZID=Asia/Kolkata:20260115T164500
-UID:Sem IV : ITM - VMS(E)-4_2026-01-15T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 4
+SUMMARY:Sem IV : ITM - VMS(E)-4
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 4
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-5
+UID:registro-Information Technology for Managers-E-session-5
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260121T140000
 DTEND;TZID=Asia/Kolkata:20260121T151500
-UID:Sem IV : ITM - VMS(E)-5_2026-01-21T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 5
+SUMMARY:Sem IV : ITM - VMS(E)-5
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 5
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-7
+UID:registro-Information Technology for Managers-E-session-7
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260122T153000
 DTEND;TZID=Asia/Kolkata:20260122T164500
-UID:Sem IV : ITM - VMS(E)-7_2026-01-22T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 7
+SUMMARY:Sem IV : ITM - VMS(E)-7
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 7
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-8
+UID:registro-Information Technology for Managers-E-session-8
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260128T140000
 DTEND;TZID=Asia/Kolkata:20260128T151500
-UID:Sem IV : ITM - VMS(E)-8_2026-01-28T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 8
+SUMMARY:Sem IV : ITM - VMS(E)-8
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 8
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-10
+UID:registro-Information Technology for Managers-E-session-10
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260204T140000
 DTEND;TZID=Asia/Kolkata:20260204T151500
-UID:Sem IV : ITM - VMS(E)-10_2026-02-04T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 10
+SUMMARY:Sem IV : ITM - VMS(E)-10
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 10
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-12
+UID:registro-Information Technology for Managers-E-session-12
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260205T153000
 DTEND;TZID=Asia/Kolkata:20260205T164500
-UID:Sem IV : ITM - VMS(E)-12_2026-02-05T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 12
+SUMMARY:Sem IV : ITM - VMS(E)-12
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 12
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-13
+UID:registro-Information Technology for Managers-E-session-13
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260218T140000
 DTEND;TZID=Asia/Kolkata:20260218T151500
-UID:Sem IV : ITM - VMS(E)-13_2026-02-18T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 13
+SUMMARY:Sem IV : ITM - VMS(E)-13
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 13
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-15
+UID:registro-Information Technology for Managers-E-session-15
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260219T153000
 DTEND;TZID=Asia/Kolkata:20260219T164500
-UID:Sem IV : ITM - VMS(E)-15_2026-02-19T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 15
+SUMMARY:Sem IV : ITM - VMS(E)-15
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 15
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-18
+UID:registro-Information Technology for Managers-E-session-18
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260311T140000
 DTEND;TZID=Asia/Kolkata:20260311T151500
-UID:Sem IV : ITM - VMS(E)-18_2026-03-11T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 18
+SUMMARY:Sem IV : ITM - VMS(E)-18
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 18
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-20
+UID:registro-Information Technology for Managers-E-session-20
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260312T153000
 DTEND;TZID=Asia/Kolkata:20260312T164500
-UID:Sem IV : ITM - VMS(E)-20_2026-03-12T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 20
+SUMMARY:Sem IV : ITM - VMS(E)-20
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 20
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-21
+UID:registro-Information Technology for Managers-E-session-21
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260318T140000
 DTEND;TZID=Asia/Kolkata:20260318T151500
-UID:Sem IV : ITM - VMS(E)-21_2026-03-18T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 21
+SUMMARY:Sem IV : ITM - VMS(E)-21
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 21
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-23
+UID:registro-Information Technology for Managers-E-session-23
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260319T153000
 DTEND;TZID=Asia/Kolkata:20260319T164500
-UID:Sem IV : ITM - VMS(E)-23_2026-03-19T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 23
+SUMMARY:Sem IV : ITM - VMS(E)-23
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 23
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-24
+UID:registro-Information Technology for Managers-E-session-24
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260325T140000
 DTEND;TZID=Asia/Kolkata:20260325T151500
-UID:Sem IV : ITM - VMS(E)-24_2026-03-25T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 24
+SUMMARY:Sem IV : ITM - VMS(E)-24
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 24
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-26
+UID:registro-Information Technology for Managers-E-session-26
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260326T153000
 DTEND;TZID=Asia/Kolkata:20260326T164500
-UID:Sem IV : ITM - VMS(E)-26_2026-03-26T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 26
+SUMMARY:Sem IV : ITM - VMS(E)-26
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 26
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-24
+UID:registro-Operations Management-E-session-24
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260326T100000
 DTEND;TZID=Asia/Kolkata:20260326T111500
-UID:Sem IV : OPM - OPS_VF(E)-24_2026-03-26T10:00:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 24
+SUMMARY:Sem IV : OPM - OPS_VF(E)-24
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 24
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-27
+UID:registro-Operations Management-E-session-27
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260402T100000
 DTEND;TZID=Asia/Kolkata:20260402T111500
-UID:Sem IV : OPM - OPS_VF(E)-27_2026-04-02T10:00:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 27
+SUMMARY:Sem IV : OPM - OPS_VF(E)-27
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 27
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-30
+UID:registro-Operations Management-E-session-30
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260409T100000
 DTEND;TZID=Asia/Kolkata:20260409T111500
-UID:Sem IV : OPM - OPS_VF(E)-30_2026-04-09T10:00:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 30
+SUMMARY:Sem IV : OPM - OPS_VF(E)-30
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 30
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-10
+UID:registro-Operations Management-E-session-10
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260205T083000
 DTEND;TZID=Asia/Kolkata:20260205T094500
-UID:Sem IV : OPM - OPS_VF(E)-10_2026-02-05T08:30:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 10
+SUMMARY:Sem IV : OPM - OPS_VF(E)-10
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 10
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : OPM - OPS_VF(E)-21
+UID:registro-Operations Management-E-session-21
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260319T140000
 DTEND;TZID=Asia/Kolkata:20260319T151500
-UID:Sem IV : OPM - OPS_VF(E)-21_2026-03-19T14:00:00+05:30
-DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSe
- ssion: 21
+SUMMARY:Sem IV : OPM - OPS_VF(E)-21
+DESCRIPTION:Course: Operations Management\nFaculty: OPS_VF\nSection: E\nSession: 21
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-16
+UID:registro-Information Technology for Managers-E-session-16
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260305T153000
 DTEND;TZID=Asia/Kolkata:20260305T164500
-UID:Sem IV : ITM - VMS(E)-16_2026-03-05T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 16
+SUMMARY:Sem IV : ITM - VMS(E)-16
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 16
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-12
+UID:registro-Business Research Methods-E-session-12
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260129T153000
 DTEND;TZID=Asia/Kolkata:20260129T164500
-UID:Sem IV : BRM - PRS(E)-12_2026-01-29T15:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 12
+SUMMARY:Sem IV : BRM - PRS(E)-12
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 12
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-1
+UID:registro-Business Research Methods-E-session-1
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260107T083000
 DTEND;TZID=Asia/Kolkata:20260107T094500
-UID:Sem IV : BRM - PRS(E)-1_2026-01-07T08:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 1
+SUMMARY:Sem IV : BRM - PRS(E)-1
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 1
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-7
+UID:registro-Business Research Methods-E-session-7
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260121T083000
 DTEND;TZID=Asia/Kolkata:20260121T094500
-UID:Sem IV : BRM - PRS(E)-7_2026-01-21T08:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 7
+SUMMARY:Sem IV : BRM - PRS(E)-7
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 7
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-11
+UID:registro-Business Research Methods-E-session-11
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260128T083000
 DTEND;TZID=Asia/Kolkata:20260128T094500
-UID:Sem IV : BRM - PRS(E)-11_2026-01-28T08:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 11
+SUMMARY:Sem IV : BRM - PRS(E)-11
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 11
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-17
+UID:registro-Business Research Methods-E-session-17
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260204T083000
 DTEND;TZID=Asia/Kolkata:20260204T094500
-UID:Sem IV : BRM - PRS(E)-17_2026-02-04T08:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 17
+SUMMARY:Sem IV : BRM - PRS(E)-17
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 17
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-28
+UID:registro-Business Research Methods-E-session-28
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260330T153000
 DTEND;TZID=Asia/Kolkata:20260330T164500
-UID:Sem IV : BRM - PRS(E)-28_2026-03-30T15:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 28
+SUMMARY:Sem IV : BRM - PRS(E)-28
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 28
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-29
+UID:registro-Business Research Methods-E-session-29
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260331T113000
 DTEND;TZID=Asia/Kolkata:20260331T124500
-UID:Sem IV : BRM - PRS(E)-29_2026-03-31T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 29
+SUMMARY:Sem IV : BRM - PRS(E)-29
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 29
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-30
+UID:registro-Business Research Methods-E-session-30
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260402T113000
 DTEND;TZID=Asia/Kolkata:20260402T124500
-UID:Sem IV : BRM - PRS(E)-30_2026-04-02T11:30:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 30
+SUMMARY:Sem IV : BRM - PRS(E)-30
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 30
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-24
+UID:registro-Financial Management-E-session-24
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260316T153000
 DTEND;TZID=Asia/Kolkata:20260316T164500
-UID:Sem IV : FIM - NEB(E)-24_2026-03-16T15:30:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 24
+SUMMARY:Sem IV : FIM - NEB(E)-24
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 24
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-29
+UID:registro-Financial Management-E-session-29
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260327T140000
 DTEND;TZID=Asia/Kolkata:20260327T151500
-UID:Sem IV : FIM - NEB(E)-29_2026-03-27T14:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 29
+SUMMARY:Sem IV : FIM - NEB(E)-29
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 29
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : FIM - NEB(E)-30
+UID:registro-Financial Management-E-session-30
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260331T100000
 DTEND;TZID=Asia/Kolkata:20260331T111500
-UID:Sem IV : FIM - NEB(E)-30_2026-03-31T10:00:00+05:30
-DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSec
- tion: E\nSession: 30
+SUMMARY:Sem IV : FIM - NEB(E)-30
+DESCRIPTION:Course: Financial Management\nFaculty: Prof. Nabendu Paul\nSection: E\nSession: 30
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-2
+UID:registro-Information Technology for Managers-E-session-2
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260107T170000
 DTEND;TZID=Asia/Kolkata:20260107T181500
-UID:Sem IV : ITM - VMS(E)-2_2026-01-07T17:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 2
+SUMMARY:Sem IV : ITM - VMS(E)-2
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 2
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-9
+UID:registro-Information Technology for Managers-E-session-9
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260128T170000
 DTEND;TZID=Asia/Kolkata:20260128T181500
-UID:Sem IV : ITM - VMS(E)-9_2026-01-28T17:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 9
+SUMMARY:Sem IV : ITM - VMS(E)-9
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 9
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-6
+UID:registro-Information Technology for Managers-E-session-6
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260121T153000
 DTEND;TZID=Asia/Kolkata:20260121T164500
-UID:Sem IV : ITM - VMS(E)-6_2026-01-21T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 6
+SUMMARY:Sem IV : ITM - VMS(E)-6
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 6
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-11
+UID:registro-Information Technology for Managers-E-session-11
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260204T153000
 DTEND;TZID=Asia/Kolkata:20260204T164500
-UID:Sem IV : ITM - VMS(E)-11_2026-02-04T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 11
+SUMMARY:Sem IV : ITM - VMS(E)-11
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 11
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-14
+UID:registro-Information Technology for Managers-E-session-14
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260218T153000
 DTEND;TZID=Asia/Kolkata:20260218T164500
-UID:Sem IV : ITM - VMS(E)-14_2026-02-18T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 14
+SUMMARY:Sem IV : ITM - VMS(E)-14
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 14
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-17
+UID:registro-Information Technology for Managers-E-session-17
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260305T170000
 DTEND;TZID=Asia/Kolkata:20260305T181500
-UID:Sem IV : ITM - VMS(E)-17_2026-03-05T17:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 17
+SUMMARY:Sem IV : ITM - VMS(E)-17
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 17
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-27
+UID:registro-Information Technology for Managers-E-session-27
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260401T153000
 DTEND;TZID=Asia/Kolkata:20260401T164500
-UID:Sem IV : ITM - VMS(E)-27_2026-04-01T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 27
+SUMMARY:Sem IV : ITM - VMS(E)-27
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 27
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-19
+UID:registro-Information Technology for Managers-E-session-19
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260311T153000
 DTEND;TZID=Asia/Kolkata:20260311T164500
-UID:Sem IV : ITM - VMS(E)-19_2026-03-11T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 19
+SUMMARY:Sem IV : ITM - VMS(E)-19
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 19
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-22
+UID:registro-Information Technology for Managers-E-session-22
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260318T170000
 DTEND;TZID=Asia/Kolkata:20260318T181500
-UID:Sem IV : ITM - VMS(E)-22_2026-03-18T17:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 22
+SUMMARY:Sem IV : ITM - VMS(E)-22
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 22
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-25
+UID:registro-Information Technology for Managers-E-session-25
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260325T153000
 DTEND;TZID=Asia/Kolkata:20260325T164500
-UID:Sem IV : ITM - VMS(E)-25_2026-03-25T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 25
+SUMMARY:Sem IV : ITM - VMS(E)-25
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 25
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-28
+UID:registro-Information Technology for Managers-E-session-28
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260401T170000
 DTEND;TZID=Asia/Kolkata:20260401T181500
-UID:Sem IV : ITM - VMS(E)-28_2026-04-01T17:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 28
+SUMMARY:Sem IV : ITM - VMS(E)-28
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 28
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-30
+UID:registro-Information Technology for Managers-E-session-30
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260406T140000
 DTEND;TZID=Asia/Kolkata:20260406T151500
-UID:Sem IV : ITM - VMS(E)-30_2026-04-06T14:00:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 30
+SUMMARY:Sem IV : ITM - VMS(E)-30
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 30
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : ITM - VMS(E)-29
+UID:registro-Information Technology for Managers-E-session-29
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260402T153000
 DTEND;TZID=Asia/Kolkata:20260402T164500
-UID:Sem IV : ITM - VMS(E)-29_2026-04-02T15:30:00+05:30
-DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Ve
- nkatachalam Subramanyam\nSection: E\nSession: 29
+SUMMARY:Sem IV : ITM - VMS(E)-29
+DESCRIPTION:Course: Information Technology for Managers\nFaculty: Prof. Venkatachalam Subramanyam\nSection: E\nSession: 29
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-14
+UID:registro-Business Research Methods-E-session-14
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260130T140000
 DTEND;TZID=Asia/Kolkata:20260130T151500
-UID:Sem IV : BRM - PRS(E)-14_2026-01-30T14:00:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 14
+SUMMARY:Sem IV : BRM - PRS(E)-14
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 14
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sem IV : BRM - PRS(E)-9
+UID:registro-Business Research Methods-E-session-9
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260123T140000
 DTEND;TZID=Asia/Kolkata:20260123T151500
-UID:Sem IV : BRM - PRS(E)-9_2026-01-23T14:00:00+05:30
-DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R S
- hanbhag \nSection: E\nSession: 9
+SUMMARY:Sem IV : BRM - PRS(E)-9
+DESCRIPTION:Course: Business Research Methods\nFaculty: Prof. Parthesh R Shanbhag \nSection: E\nSession: 9
 LOCATION:AB6_310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260110T083000
 DTEND;TZID=Asia/Kolkata:20260110T094500
-UID:SDP_2026-01-10T08:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260110T100000
 DTEND;TZID=Asia/Kolkata:20260110T111500
-UID:SDP_2026-01-10T10:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260110T113000
 DTEND;TZID=Asia/Kolkata:20260110T124500
-UID:SDP_2026-01-10T11:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260110T140000
 DTEND;TZID=Asia/Kolkata:20260110T151500
-UID:SDP_2026-01-10T14:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260110T153000
 DTEND;TZID=Asia/Kolkata:20260110T164500
-UID:SDP_2026-01-10T15:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260110T170000
 DTEND;TZID=Asia/Kolkata:20260110T181500
-UID:SDP_2026-01-10T17:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260117T083000
 DTEND;TZID=Asia/Kolkata:20260117T094500
-UID:SDP_2026-01-17T08:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260117T100000
 DTEND;TZID=Asia/Kolkata:20260117T111500
-UID:SDP_2026-01-17T10:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260117T113000
 DTEND;TZID=Asia/Kolkata:20260117T124500
-UID:SDP_2026-01-17T11:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260117T140000
 DTEND;TZID=Asia/Kolkata:20260117T151500
-UID:SDP_2026-01-17T14:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260117T153000
 DTEND;TZID=Asia/Kolkata:20260117T164500
-UID:SDP_2026-01-17T15:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260117T170000
 DTEND;TZID=Asia/Kolkata:20260117T181500
-UID:SDP_2026-01-17T17:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260207T083000
 DTEND;TZID=Asia/Kolkata:20260207T094500
-UID:SDP_2026-02-07T08:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260207T100000
 DTEND;TZID=Asia/Kolkata:20260207T111500
-UID:SDP_2026-02-07T10:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260207T113000
 DTEND;TZID=Asia/Kolkata:20260207T124500
-UID:SDP_2026-02-07T11:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260207T140000
 DTEND;TZID=Asia/Kolkata:20260207T151500
-UID:SDP_2026-02-07T14:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260207T153000
 DTEND;TZID=Asia/Kolkata:20260207T164500
-UID:SDP_2026-02-07T15:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260207T170000
 DTEND;TZID=Asia/Kolkata:20260207T181500
-UID:SDP_2026-02-07T17:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260221T083000
 DTEND;TZID=Asia/Kolkata:20260221T094500
-UID:SDP_2026-02-21T08:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260221T100000
 DTEND;TZID=Asia/Kolkata:20260221T111500
-UID:SDP_2026-02-21T10:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260221T113000
 DTEND;TZID=Asia/Kolkata:20260221T124500
-UID:SDP_2026-02-21T11:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260221T140000
 DTEND;TZID=Asia/Kolkata:20260221T151500
-UID:SDP_2026-02-21T14:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260221T153000
 DTEND;TZID=Asia/Kolkata:20260221T164500
-UID:SDP_2026-02-21T15:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260221T170000
 DTEND;TZID=Asia/Kolkata:20260221T181500
-UID:SDP_2026-02-21T17:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260314T083000
 DTEND;TZID=Asia/Kolkata:20260314T094500
-UID:SDP_2026-03-14T08:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260314T100000
 DTEND;TZID=Asia/Kolkata:20260314T111500
-UID:SDP_2026-03-14T10:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260314T113000
 DTEND;TZID=Asia/Kolkata:20260314T124500
-UID:SDP_2026-03-14T11:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260314T140000
 DTEND;TZID=Asia/Kolkata:20260314T151500
-UID:SDP_2026-03-14T14:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260314T153000
 DTEND;TZID=Asia/Kolkata:20260314T164500
-UID:SDP_2026-03-14T15:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260314T170000
 DTEND;TZID=Asia/Kolkata:20260314T181500
-UID:SDP_2026-03-14T17:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260321T083000
 DTEND;TZID=Asia/Kolkata:20260321T094500
-UID:SDP_2026-03-21T08:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260321T100000
 DTEND;TZID=Asia/Kolkata:20260321T111500
-UID:SDP_2026-03-21T10:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260321T113000
 DTEND;TZID=Asia/Kolkata:20260321T124500
-UID:SDP_2026-03-21T11:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260321T140000
 DTEND;TZID=Asia/Kolkata:20260321T151500
-UID:SDP_2026-03-21T14:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260321T153000
 DTEND;TZID=Asia/Kolkata:20260321T164500
-UID:SDP_2026-03-21T15:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260321T170000
 DTEND;TZID=Asia/Kolkata:20260321T181500
-UID:SDP_2026-03-21T17:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260328T083000
 DTEND;TZID=Asia/Kolkata:20260328T094500
-UID:SDP_2026-03-28T08:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260328T100000
 DTEND;TZID=Asia/Kolkata:20260328T111500
-UID:SDP_2026-03-28T10:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260328T113000
 DTEND;TZID=Asia/Kolkata:20260328T124500
-UID:SDP_2026-03-28T11:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260328T140000
 DTEND;TZID=Asia/Kolkata:20260328T151500
-UID:SDP_2026-03-28T14:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260328T153000
 DTEND;TZID=Asia/Kolkata:20260328T164500
-UID:SDP_2026-03-28T15:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260328T170000
 DTEND;TZID=Asia/Kolkata:20260328T181500
-UID:SDP_2026-03-28T17:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260404T083000
 DTEND;TZID=Asia/Kolkata:20260404T094500
-UID:SDP_2026-04-04T08:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260404T100000
 DTEND;TZID=Asia/Kolkata:20260404T111500
-UID:SDP_2026-04-04T10:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260404T113000
 DTEND;TZID=Asia/Kolkata:20260404T124500
-UID:SDP_2026-04-04T11:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260404T140000
 DTEND;TZID=Asia/Kolkata:20260404T151500
-UID:SDP_2026-04-04T14:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260404T153000
 DTEND;TZID=Asia/Kolkata:20260404T164500
-UID:SDP_2026-04-04T15:30:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SDP
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
 DTSTART;TZID=Asia/Kolkata:20260404T170000
 DTEND;TZID=Asia/Kolkata:20260404T181500
-UID:SDP_2026-04-04T17:00:00+05:30
-DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Makara Sankranthi
-DTSTART;VALUE=DATE:20260114
-DTEND;VALUE=DATE:20260114
-UID:holiday_2026-01-14
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
+DTSTART;TZID=Asia/Kolkata:20260411T083000
+DTEND;TZID=Asia/Kolkata:20260411T094500
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Founder's Day
-DTSTART;VALUE=DATE:20260116
-DTEND;VALUE=DATE:20260116
-UID:holiday_2026-01-16
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
+DTSTART;TZID=Asia/Kolkata:20260411T100000
+DTEND;TZID=Asia/Kolkata:20260411T111500
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Republic Day
-DTSTART;VALUE=DATE:20260126
-DTEND;VALUE=DATE:20260126
-UID:holiday_2026-01-26
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
+DTSTART;TZID=Asia/Kolkata:20260411T113000
+DTEND;TZID=Asia/Kolkata:20260411T124500
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KALA
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260131
-UID:holiday_2026-01-31
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
+DTSTART;TZID=Asia/Kolkata:20260411T140000
+DTEND;TZID=Asia/Kolkata:20260411T151500
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KALA
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260201
-UID:holiday_2026-02-01
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
+DTSTART;TZID=Asia/Kolkata:20260411T153000
+DTEND;TZID=Asia/Kolkata:20260411T164500
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Holi
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20260304
-UID:holiday_2026-03-04
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adhikshna
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260307
-UID:holiday_2026-03-07
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramzan
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260320
-UID:holiday_2026-03-20
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Friday
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260403
-UID:holiday_2026-04-03
-DESCRIPTION:Academic Holiday
-TRANSP:TRANSPARENT
+UID:registro-SDP---session-0
+DTSTAMP:20260106T103337Z
+DTSTART;TZID=Asia/Kolkata:20260411T170000
+DTEND;TZID=Asia/Kolkata:20260411T181500
+SUMMARY:SDP
+DESCRIPTION:Course: SDP\nFaculty: Student Development Program\nSection: -\nSession: 0
 END:VEVENT
 END:VCALENDAR
